@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails pslab: production" uuid="1ff7d5ef-7a25-46f4-ac43-1e84b3081ec9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails pslab: test" uuid="5882b696-b522-4fc2-8518-6306f926dd04">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails pslab: development" uuid="48ec8afe-4549-479c-9018-5790b98fd9ca">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
