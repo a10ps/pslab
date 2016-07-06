@@ -24,6 +24,9 @@ default: &default
 development:
   <<: *default
   database: pslab_development
+  username: postgres
+  password: postgres
+
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -59,6 +62,7 @@ test:
   <<: *default
   database: pslab_test
 
+
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
@@ -82,4 +86,4 @@ production:
   <<: *default
   database: pslab_production
   username: pslab
-  password: <%= ENV['PSLAB_DATABASE_PASSWORD'] %>
+  password: pslab #<%= ENV['PSLAB_DATABASE_PASSWORD'] %>

@@ -3,11 +3,13 @@
   <component name="dataSourceStorageLocal">
     <data-source name="Rails pslab: production" uuid="1ff7d5ef-7a25-46f4-ac43-1e84b3081ec9">
       <user-name>pslab</user-name>
-      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadff9dfe6dfebdfe8dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <user-password>dfdadfd9dfc6dfcbdfc8</user-password>
     </data-source>
     <data-source name="Rails pslab: test" uuid="5882b696-b522-4fc2-8518-6306f926dd04" />
     <data-source name="Rails pslab: development" uuid="48ec8afe-4549-479c-9018-5790b98fd9ca">
       <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
     </data-source>
   </component>
 </project>
